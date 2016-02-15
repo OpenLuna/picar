@@ -21,3 +21,5 @@ Add the following to your crontab file:
 ```
 @reboot sudo python /path/to/car_main.py > /path/to/car_log.txt
 ```
+
+Edit ```car.config``` to add your server IP. You should now be able to restart your Pi and it should set itself up and connect to your server (assuming it's running).
