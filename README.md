@@ -6,7 +6,7 @@ This is the code required to control a RC car over the internet, provided you co
 
 Clone the code to your Pi and run `install.sh`.
 
-Edit your wpa-supplicant (`/etc/wpa_supplicant/wpa_supplicant.conf`) file so that the Wifi dongle will connect to your network immediately upon startup.
+Edit your wpa-supplicant file (`/etc/wpa_supplicant/wpa_supplicant.conf`) so that the Wifi dongle will connect to your network immediately upon startup.
 
 ```
 network={
