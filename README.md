@@ -1,4 +1,4 @@
-# hirespicar
+# picar
 
 This is the code required to control a RC car over the internet, provided you connected the engines to a Raspberry Pi which is in turn connected to the internet.
 
